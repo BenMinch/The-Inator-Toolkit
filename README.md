@@ -23,3 +23,9 @@ Numpy
 
 ### Example run
 `python corrillationinator.py -g input_file_1.csv -t input_file_2.csv -o outputname`
+
+
+# CoverM_Genominator
+This is a simple program that allows you to run coverM genome (a mapping and coverage tool) on a directory of genomes and with a large directory of reads.
+
+### Inputs
