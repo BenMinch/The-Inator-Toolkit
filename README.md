@@ -1,6 +1,6 @@
 # The-Inator-Toolkit
 A repository for all of my different small bioinformatic tools that help with everyday bioinformatic tasks.
-![](images/Screen Shot 2023-02-23 at 10.04.04 PM.png)
+![alt text](images/Screen Shot 2023-02-23 at 10.04.04 PM.png)
 # Corrilationinator
 A program that takes two matrices of expression data (or other data) and looks at total correlation between them. This will do spearman's correlation (if you want pearson's it's an easy change.
 
